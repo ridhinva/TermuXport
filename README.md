@@ -39,7 +39,7 @@ pkg install termux-api
 2. Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/TermuXport.git
+git clone https://github.com/ridhinva/TermuXport.git
 cd TermuXport
 ```
 
